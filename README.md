@@ -15,7 +15,7 @@ This repository documents a complete **multi-site FortiGate network security lab
 
 ## 🏗️ Lab Topology
 
-![EVE-NG Lab Topology](topology/lab_topology.png)
+![EVE-NG Lab Topology](topology/lab.jpg)
 
 ### Sites
 | Site | Devices | LAN Network |
