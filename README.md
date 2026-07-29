@@ -1,8 +1,7 @@
-# Multi-Site-FortiGate-Deployment
-# EVE-NG FortiOS 7.2.0 — Multi-Site Lab Documentation
+# EVE-NG FortiOS 7.2.0 — Multi-Site-FortiGate-Deployment
 
-> **Course Project** · Egypt-Japan University of Science and Technology (E-JUST)  
-> **Subject:** Computer and Network Security (CNC 323)  
+> **Course Project** · CyberSec Fortinet-NTI
+> 
 > **Instructor:** Dr. Ismail Abdelkader
 
 ---
@@ -13,7 +12,7 @@ This repository documents a complete **multi-site FortiGate network security lab
 
 ---
 
-## 🏗️ Lab Topology
+## Lab Topology
 
 ![EVE-NG Lab Topology](topology/lab.jpg)
 
@@ -144,7 +143,7 @@ The full technical documentation (29 pages) covers:
 16. Appendices
 17. Lab Evidence – Proof of Work
 
-📄 See [`docs/EVE_NG_FortiOS_7_2_0_Documentation.docx`](docs/EVE_NG_FortiOS_7_2_0_Documentation.docx)
+📄 See [`report/EVE_NG_ Documentation.pdf`](docs/EVE_NG_FortiOS_7_2_0_Documentation.docx)
 
 ---
 
@@ -158,4 +157,3 @@ The full technical documentation (29 pages) covers:
 ---
 
 
-*E-JUST · Computer and Network Security Department · 2026*
