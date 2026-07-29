@@ -151,7 +151,6 @@ The full technical documentation (29 pages) covers:
 
 - [Fortinet Documentation Library](https://docs.fortinet.com/)
 - [FortiOS 7.2 Administration Guide](https://docs.fortinet.com/product/fortigate/7.2)
-- [EVE-NG Documentation](https://www.eve-ng.net/index.php/documentation/)
 - [Fortinet NSE Training](https://training.fortinet.com/)
 
 ---
